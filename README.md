@@ -20,7 +20,6 @@
 - **Shell Scripting**: Because clicking is too mainstream
 - **SQL**: I speak fluent “SELECT * FROM EVERYTHING”
 - **Vim**: I know how to exit now
-- **Git**: Sometimes I even remember to commit
 - **Splunk**: This has all your data
 - **ServiceNow**: Most used application in work
 
